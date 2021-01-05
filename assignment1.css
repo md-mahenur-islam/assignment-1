@@ -15,6 +15,9 @@ ul li{
     margin:20px;
     list-style-type: none;
      }
+section{
+    height:600px;
+}     
 .my-intro{
     width:30%;
     margin:50px; 
@@ -54,5 +57,60 @@ ul li{
 }
 .my-picture{
     margin-left:800px;
+}
+.my-picture-two img{
+    height:700px;
+    width:500px;
+    margin-left:80px;
+}
+.my-picture-two{
+    width:600px;
+    height:700px;
+    float: left;
+}
+.middle-banner .my-intro{
+    margin-left:185px;
+    margin-top:120px;
+}
+.my-intro a span{
+    color:white;
+}
+.grid-item h1{
+    margin-top:150px;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 50px;
+    padding-top:70px;
+    padding-bottom:50px;
+}
+.grid-item span{
+    color:rgb(204, 108, 44);
+}
+.grid-item{
+    background-color: #f7f7f0;
+    padding-bottom:150px;
+}
+.one-third-width{
+    background-color: grey;
     
 }
+.item-one{
+    width: 25%;
+    height: 350px;
+    border: 2px solid white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px grey;
+    margin-left:5%;
+    padding:10px;
+    display:inline-block;
+}
+.item-one img{
+    height:200px;
+    width:300px;
+    padding: 2px;
+    border-left:1px solid grey;
+}
+.item-one #you-first{
+    float: left;
+}
+
