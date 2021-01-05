@@ -113,4 +113,10 @@ section{
 .item-one #you-first{
     float: left;
 }
-
+.item-one h2{
+    font-family: 'Staatliches', cursive;
+    font-weight:300;
+}
+.item-one p{
+    font-family: 'Lobster', cursive;
+}
