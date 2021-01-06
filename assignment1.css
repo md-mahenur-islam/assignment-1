@@ -1,5 +1,7 @@
 body{
     margin:0px;
+    background-image: url('top-banner.png');
+    background-repeat: no-repeat;
 }
 .menu{
     margin-left:1000px;
@@ -22,6 +24,7 @@ section{
     width:30%;
     margin:50px; 
     float:left;
+    
 }
 .my-intro h1{
     font-family: 'Staatliches', cursive;
@@ -59,9 +62,10 @@ section{
     margin-left:800px;
 }
 .my-picture-two img{
-    height:500px;
+    height:450px;
     width:500px;
     margin-left:80px;
+    margin-top:120px;
 }
 .my-picture-two{
     width:600px;
@@ -159,8 +163,12 @@ span{
     color:tomato;
 }
 .add-video{
-    margin-left:475px;
-}
+    margin-left: 475px;
+    border: 2px solid #e0e0e0;
+    width: 559px;
+    height: 314px;
+    box-shadow: 10px 10px 40px rgb(162, 162, 223);
+    }
 .footer-design h1{
     font-size:20px;
     font-family: 'Bree Serif', serif;
