@@ -51,15 +51,15 @@ section{
 }
 .my-picture img{
     width:500px;
-    height:700px;
+    height:500px;
     position: absolute;
-    bottom:10px;
+    bottom:-10px;
 }
 .my-picture{
     margin-left:800px;
 }
 .my-picture-two img{
-    height:700px;
+    height:500px;
     width:500px;
     margin-left:80px;
 }
@@ -119,4 +119,69 @@ section{
 }
 .item-one p{
     font-family: 'Lobster', cursive;
+}
+.section-three{
+    height:350px;
+}
+.work-inquiry{
+    height: 220px;
+    background-image:url('shapes/Group_33094_1.png');
+    background-size:850px 210px;
+    background-repeat: no-repeat;
+    width: 900px;
+    margin-left: 320px;
+    margin-top: 120px;
+    color:white;
+    font-family: 'Staatliches', cursive;
+}
+.heading{
+    padding:30px;
+    display: inline-block;
+    margin-left:40px;
+}
+.lets-chat{
+    display: inline-block;
+    border: 2px solid orange;
+    border-radius:10px;
+    padding: 20px 30px;
+    margin-top: 80px;
+    margin-left: 400px;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+}
+.video-section h1{
+    text-align:center;
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 1px;
+    margin-top:40px;
+    font-size:50px;
+}
+span{
+    color:tomato;
+}
+.add-video{
+    margin-left:475px;
+}
+.footer-design h1{
+    font-size:20px;
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    text-transform: uppercase;
+    color:rgb(71, 69, 69);
+}
+.footer-design h2{
+    font-size:40px;
+    font-family: 'Patua One', cursive;
+    text-align:center;
+    color:rgb(60, 56, 61);
+    margin-top:-15px;
+}
+.icon{
+    margin-left:665px;
+    padding-bottom:100px;
+}
+.icon img{
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    
 }
