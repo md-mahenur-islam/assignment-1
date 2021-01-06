@@ -2,6 +2,7 @@ body{
     margin:0px;
     background-image: url('top-banner.png');
     background-repeat: no-repeat;
+
 }
 .menu{
     margin-left:1000px;
@@ -100,7 +101,7 @@ section{
 }
 .item-one{
     width: 25%;
-    height: 350px;
+    height: 380px;
     border: 2px solid white;
     border-radius: 20px;
     box-shadow: 10px 10px 40px grey;
@@ -109,8 +110,8 @@ section{
     display:inline-block;
 }
 .item-one img{
-    height:200px;
-    width:300px;
+    height:220px;
+    width:380px;
     padding: 2px;
     border-left:1px solid grey;
 }
@@ -142,6 +143,8 @@ section{
     padding:30px;
     display: inline-block;
     margin-left:40px;
+    font-size:50px;
+    margin-top:50px;
 }
 .lets-chat{
     text-decoration: none;
@@ -151,7 +154,7 @@ section{
     border-radius:10px;
     padding: 20px 30px;
     margin-top: 80px;
-    margin-left: 400px;
+    margin-left: 350px;
     background-image: linear-gradient(45deg, lightsalmon,tomato);
 }
 .video-section h1{
